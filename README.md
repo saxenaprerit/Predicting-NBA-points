@@ -1,2 +1,2 @@
 # Predicting-NBA-points
-Predicting NBA scores from match data
+Predicting NBA scores from open source match data
