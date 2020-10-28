@@ -4,3 +4,5 @@ Predicting NBA scores from open source match data based on various parameters of
 Tool used: R
 
 Algorithm used: Linear regression
+
+Measurement metrics: MSE, SSE
